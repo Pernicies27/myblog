@@ -3,10 +3,9 @@ markdown: kramdown
 highlighter: rouge
 paginate: 100 # it will paginate after this number
 language: 'en-uk'
-words_per_minute: 200
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: './'
+baseurl: '/jasper2/'
 
 # Website info
 title: Rafael Albert
@@ -22,7 +21,6 @@ navigation: True # show the navbar links
 subscribers: False # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
-linkedin_username: rafael-albert
 
 # Disqus
 disqus: False
@@ -69,7 +67,7 @@ lsi: False
 username: Pernicies27
 repo: myblog
 branch: master
-relative_source: 
+relative_source: ../jasper2/
 destination: ../site
 production_url:  
 source_url:  
