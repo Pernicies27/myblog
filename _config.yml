@@ -70,7 +70,7 @@ username: Pernicies27
 repo: myblog
 branch: master
 relative_source: 
-destination: 
+destination: ../site
 production_url:  
 source_url:  
 
