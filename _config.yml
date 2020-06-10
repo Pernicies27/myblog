@@ -69,7 +69,7 @@ repo: myblog
 branch: master
 relative_source: ../myblog/
 destination: ../site
-production_url:  
+production_url: blog.rafael-albert.com
 source_url:  
 
 exclude:
