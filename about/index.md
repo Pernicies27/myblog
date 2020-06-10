@@ -7,11 +7,12 @@ logo: 'assets/images/ghost.png'
 class: page-template
 subclass: 'post page'
 ---
+I am dedicated to making the biggest difference in the world I possibly can through [Effective Altruism](https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/).
+Currently, I aspire to positively shape the long-run impacts of Artificial Intelligence by either doing research myself
+or by taking on a Governance role
 
-Ghost is professional publishing platform designed for modern journalism. This is a demo site of a basic Ghost install to give you a general sense of what a new Ghost site looks like when set up for the first time.
+As of now, I am a student of Computer Science and Mathematics at RWTH Aachen University in Germany. 
+I will finish my Bachelor degrees until March and am curious what I will make out of my future.
 
-> If you'd like to set up a site like this for yourself, head over to [Ghost.org](https://ghost.org/) and start a free 14 day trial to give Ghost a try!
-
-If you're a developer: Ghost is a completely open source (MIT) Node.js application built on a JSON API with an Ember.js admin client. It works with MySQL and SQLite, and is publicly available [on Github](https://github.com/TryGhost/ghost).
-
-If you need help with using Ghost, you'll find a ton of useful articles on [our knowledgebase](https://help.ghost.org/), as well as extensive [developer documentation](https://docs.ghost.org/).
+In my freetime, I lead the [Effective Altruism Aachen](https://ea-aachen.org) student society. 
+The project I am most excited about is a semester-long university module we offer in cooperation with RWTH Aachen University.

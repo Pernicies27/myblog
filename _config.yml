@@ -6,13 +6,13 @@ language: 'en-uk'
 words_per_minute: 200
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper2/
+baseurl: /
 
 # Website info
-title: Ghost
-description: The professional publishing platform
+title: Rafael Albert
+description: Exploring ideas about changing ourselves and the world
 cover: assets/images/blog-cover.jpg
-logo: assets/images/blog-icon.png
+logo: 
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
 CNAME: #add cname for website to be created
@@ -22,15 +22,14 @@ navigation: True # show the navbar links
 subscribers: True # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
-twitter: tryghost # replace by your username
-facebook: ghost # replace by your username
+linkedin: rafael-albert
 
 # Disqus
 disqus: False
-disqus_shortname: jekyller # replace with your disqus username
+disqus_shortname: # replace with your disqus username
 
 # Google Analytics
-google_analytics: UA-69281367-1 # replace with your GA tracking identifier
+google_analytics: # replace with your GA tracking identifier
 
 # Permalinks
 permalink: /:title

@@ -1,12 +1,11 @@
 ghost:
-  username: ghost
-  name: Ghost
+  username: rafael
+  name: Rafael Albert
   url_full: http://jekyller.github.io/jasper2/
   url: jekyller.github.io/jasper2
-  bio: The professional publishing platform
+  bio: 
   picture: assets/images/ghost.png
-  facebook: ghost
-  twitter: tryghost
+  linkedin: rafael-albert
   cover: False
 hannah:
   username: hannah
